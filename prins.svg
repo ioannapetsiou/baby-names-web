@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="fl-layout-svg-screenshot-container" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 789.75 797.56">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(193, 31, 31, .9);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-9, .cls-5, .cls-10, .cls-11 {
+        stroke-width: 0px;
+      }
+
+      .cls-1, .cls-5 {
+        opacity: .9;
+      }
+
+      .cls-2 {
+        font-size: 22.4px;
+      }
+
+      .cls-2, .cls-3, .cls-8 {
+        fill: #333;
+      }
+
+      .cls-2, .cls-7 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-9, .cls-7 {
+        fill: #000;
+      }
+
+      .cls-12 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-3 {
+        font-size: 22px;
+      }
+
+      .cls-3, .cls-6, .cls-8 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-13 {
+        clip-path: url(#clippath-2);
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        fill: rgba(0, 125, 142, .9);
+      }
+
+      .cls-10, .cls-15, .cls-16 {
+        fill: none;
+      }
+
+      .cls-17 {
+        clip-path: url(#clippath-1);
+      }
+
+      .cls-15, .cls-16 {
+        stroke: #eee;
+        stroke-width: 1.6px;
+      }
+
+      .cls-18 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-16 {
+        stroke-linecap: square;
+      }
+
+      .cls-11 {
+        fill: rgba(0, 0, 0, 0);
+      }
+
+      .cls-19 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-6 {
+        fill: #4a4a4a;
+      }
+
+      .cls-6, .cls-8 {
+        font-size: 14px;
+      }
+
+      .cls-7 {
+        font-size: 12.6px;
+      }
+
+      .cls-20 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-21 {
+        letter-spacing: -.06em;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-10" x="83.6" y="154.82" width="687.4" height="490"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="cls-10" x="85.2" y="156.42" width="684.2" height="486.8"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="cls-10" x="85.2" y="156.42" width="684.2" height="486.8"/>
+    </clipPath>
+  </defs>
+  <rect class="cls-10" x="85.2" y="148.52" width="695.4" height="494.7"/>
+  <rect class="cls-10" x="85.2" y="148.52" width="695.4" height="494.7"/>
+  <g>
+    <g>
+      <rect class="cls-10" x="85.2" y="156.42" width="684.2" height="486.8"/>
+      <rect class="cls-11" x="85.2" y="156.42" width="684.2" height="486.8"/>
+    </g>
+    <g class="cls-18">
+      <g>
+        <g>
+          <line class="cls-15" x1="85.2" y1="643.22" x2="85.2" y2="156.42"/>
+          <line class="cls-15" x1="132.5" y1="643.22" x2="132.5" y2="156.42"/>
+          <line class="cls-15" x1="179.9" y1="643.22" x2="179.9" y2="156.42"/>
+          <line class="cls-15" x1="227.3" y1="643.22" x2="227.3" y2="156.42"/>
+          <line class="cls-15" x1="274.7" y1="643.22" x2="274.7" y2="156.42"/>
+          <line class="cls-15" x1="322.1" y1="643.22" x2="322.1" y2="156.42"/>
+          <line class="cls-15" x1="369.5" y1="643.22" x2="369.5" y2="156.42"/>
+          <line class="cls-15" x1="416.9" y1="643.22" x2="416.9" y2="156.42"/>
+          <line class="cls-15" x1="464.3" y1="643.22" x2="464.3" y2="156.42"/>
+          <line class="cls-15" x1="511.6" y1="643.22" x2="511.6" y2="156.42"/>
+          <line class="cls-15" x1="559" y1="643.22" x2="559" y2="156.42"/>
+          <line class="cls-15" x1="606.4" y1="643.22" x2="606.4" y2="156.42"/>
+          <line class="cls-15" x1="653.8" y1="643.22" x2="653.8" y2="156.42"/>
+          <line class="cls-15" x1="701.2" y1="643.22" x2="701.2" y2="156.42"/>
+          <line class="cls-15" x1="748.6" y1="643.22" x2="748.6" y2="156.42"/>
+        </g>
+        <g>
+          <line class="cls-15" x1="85.2" y1="608.42" x2="769.4" y2="608.42"/>
+          <line class="cls-15" x1="85.2" y1="573.62" x2="769.4" y2="573.62"/>
+          <line class="cls-15" x1="85.2" y1="538.92" x2="769.4" y2="538.92"/>
+          <line class="cls-15" x1="85.2" y1="504.12" x2="769.4" y2="504.12"/>
+          <line class="cls-15" x1="85.2" y1="469.32" x2="769.4" y2="469.32"/>
+          <line class="cls-15" x1="85.2" y1="434.62" x2="769.4" y2="434.62"/>
+          <line class="cls-15" x1="85.2" y1="399.82" x2="769.4" y2="399.82"/>
+          <line class="cls-15" x1="85.2" y1="365.02" x2="769.4" y2="365.02"/>
+          <line class="cls-15" x1="85.2" y1="330.32" x2="769.4" y2="330.32"/>
+          <line class="cls-15" x1="85.2" y1="295.52" x2="769.4" y2="295.52"/>
+          <line class="cls-15" x1="85.2" y1="260.72" x2="769.4" y2="260.72"/>
+          <line class="cls-15" x1="85.2" y1="226.02" x2="769.4" y2="226.02"/>
+          <line class="cls-15" x1="85.2" y1="191.22" x2="769.4" y2="191.22"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <g>
+        <line class="cls-16" x1="85.2" y1="643.22" x2="769.4" y2="643.22"/>
+        <g>
+          <g>
+            <line class="cls-15" x1="132.5" y1="643.22" x2="132.5" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(133.6 667.12) rotate(-45)"><tspan x="0" y="0">0</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="606.4" y1="643.22" x2="606.4" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(590.9 683.62) rotate(-45)"><tspan x="0" y="0">2000</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="369.5" y1="643.22" x2="369.5" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(354 683.62) rotate(-45)"><tspan x="0" y="0">1000</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="322.1" y1="643.22" x2="322.1" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(312.1 678.12) rotate(-45)"><tspan x="0" y="0">800</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="274.7" y1="643.22" x2="274.7" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(264.7 678.12) rotate(-45)"><tspan x="0" y="0">600</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="227.3" y1="643.22" x2="227.3" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(217.3 678.12) rotate(-45)"><tspan x="0" y="0">400</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="179.9" y1="643.22" x2="179.9" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(170 678.12) rotate(-45)"><tspan x="0" y="0">200</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="85.2" y1="643.22" x2="85.2" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(71.9 681.42) rotate(-45)"><tspan x="0" y="0">-200</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="748.6" y1="643.22" x2="748.6" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(733.1 683.62) rotate(-45)"><tspan x="0" y="0">2600</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="701.2" y1="643.22" x2="701.2" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(685.7 683.62) rotate(-45)"><tspan x="0" y="0">2400</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="653.8" y1="643.22" x2="653.8" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(638.3 683.62) rotate(-45)"><tspan x="0" y="0">2200</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="559" y1="643.22" x2="559" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(543.5 683.62) rotate(-45)"><tspan x="0" y="0">1800</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="511.6" y1="643.22" x2="511.6" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(496.2 683.62) rotate(-45)"><tspan x="0" y="0">1600</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="464.3" y1="643.22" x2="464.3" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(448.8 683.62) rotate(-45)"><tspan x="0" y="0">1400</tspan></text>
+              </g>
+            </g>
+          </g>
+          <g>
+            <line class="cls-15" x1="416.9" y1="643.22" x2="416.9" y2="651.62"/>
+            <g class="cls-4">
+              <g class="cls-4">
+                <text class="cls-6" transform="translate(401.4 683.62) rotate(-45)"><tspan x="0" y="0">1200</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(0 630.42)"><tspan x="0" y="0">Snow White</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(11.6 595.62)"><tspan x="0" y="0">Cinderella</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(.7 560.92)"><tspan x="0" y="0">Pocahontas</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(15.5 526.12)"><tspan x="0" y="0">Rapunzel</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(43.5 491.32)"><tspan x="0" y="0">Belle</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(40.2 456.62)"><tspan class="cls-20" x="0" y="0">T</tspan><tspan x="8.03" y="0">iana</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(47.4 421.82)"><tspan x="0" y="0">Elsa</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(22.5 387.02)"><tspan x="0" y="0">Jasmine</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(31.9 352.32)"><tspan x="0" y="0">Moana</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(32.6 317.52)"><tspan x="0" y="0">Aurora</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(42 282.72)"><tspan x="0" y="0">Raya</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(31.9 248.02)"><tspan x="0" y="0">Merida</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(46.7 213.22)"><tspan x="0" y="0">Ariel</tspan></text>
+          </g>
+        </g>
+        <g class="cls-4">
+          <g class="cls-4">
+            <text class="cls-6" transform="translate(36.5 178.42)"><tspan x="0" y="0">Mulan</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g class="cls-17">
+    <g>
+      <path id="point-0-10" class="cls-5" d="M131.1,507.52h-6.5v28h6.5v-28h0Z"/>
+      <path id="point-0-11" class="cls-5" d="M131.1,542.22h-5.3v28h5.3v-28Z"/>
+      <path id="point-0-12" class="cls-5" d="M131.6,577.02h-1v28h1v-28Z"/>
+    </g>
+  </g>
+  <g class="cls-13">
+    <g>
+      <path id="point-1-1" class="cls-1" d="M133.9,194.62h595.8v28H133.9v-28Z"/>
+      <path id="point-1-2" class="cls-1" d="M133.9,229.32h250.4v28h-250.4v-28h0Z"/>
+      <path id="point-1-3" class="cls-1" d="M133.9,264.12h207.6v28h-207.6v-28h0Z"/>
+      <path id="point-1-4" class="cls-1" d="M133.9,298.92h163.1v28h-163.1v-28h0Z"/>
+      <path id="point-1-5" class="cls-1" d="M133.9,333.62h138.2v28h-138.2v-28Z"/>
+      <path id="point-1-6" class="cls-1" d="M133.9,368.42h113.5v28h-113.5v-28Z"/>
+      <path id="point-1-7" class="cls-1" d="M133.9,403.22h31.6v28h-31.6v-28Z"/>
+      <path id="point-1-7-2" class="cls-1" d="M769.4,159.82h15.8v28h-15.8v-28Z"/>
+      <path id="point-1-8" class="cls-1" d="M133.9,437.92h9.7v28h-9.7v-28Z"/>
+      <path id="point-1-9" class="cls-1" d="M133.9,472.72h4.7v28h-4.7v-28Z"/>
+      <path id="point-1-1-2" class="cls-1" d="M133.6,159.82h635.8v28H133.6v-28Z"/>
+      <path class="cls-9" d="M734.1,168.42v4.7h6.9v1.2h-6.9v4.8h-1.9v-4.8h-6.9v-1.2h6.9v-4.7h1.9Z"/>
+      <path class="cls-9" d="M753.2,174.72c-1.6,1-3.2,2.2-5.6,2.2s-4.4-1.2-4.4-3,1.9-3,4.6-3,3.9,1.2,5.4,2.2c1.5-1,3.2-2.2,5.6-2.2s4.4,1.2,4.4,3-1.9,3-4.6,3-3.9-1.2-5.4-2.2ZM752,173.82c-1.2-.7-2.4-1.8-4.2-1.8s-2.7.8-2.7,1.8,1.1,1.8,2.6,1.8,3.1-1,4.3-1.8h0ZM761.3,173.82c0-1-1.1-1.8-2.6-1.8s-3.1,1-4.3,1.8c1.2.7,2.4,1.8,4.2,1.8s2.7-.8,2.7-1.8h0Z"/>
+    </g>
+  </g>
+  <g id="stack-labels">
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(731.8 212.72)"><tspan x="0" y="0">2520.7</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(386.4 247.52)"><tspan x="0" y="0">1062.6</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(344 282.32)"><tspan x="0" y="0">882.2</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(299.5 317.02)"><tspan x="0" y="0">694.2</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(275.1 351.82)"><tspan x="0" y="0">589</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(249.9 386.62)"><tspan x="0" y="0">485.1</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(168 421.32)"><tspan x="0" y="0">139.2</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(147 456.12)"><tspan x="0" y="0">47</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(141.5 490.92)"><tspan x="0" y="0">25.8</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(93.3 525.62)"><tspan x="0" y="0">-33.3</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(94.5 560.42)"><tspan x="0" y="0">-28.2</tspan></text>
+    </g>
+    <g class="cls-4" pointer-events="none">
+      <text class="cls-7" transform="translate(105.8 595.22)"><tspan x="0" y="0">-8.3</tspan></text>
+    </g>
+  </g>
+  <g class="cls-4">
+    <g class="cls-4">
+      <text class="cls-2" transform="translate(5.6 19.22)"><tspan x="0" y="0">Significant Percentage Increase in Girls </tspan><tspan class="cls-14" x="428.25" y="0">W</tspan><tspan x="449.19" y="0">ith Disney Princess Names </tspan></text>
+      <text class="cls-2" transform="translate(5.6 46.12)"><tspan x="0" y="0">After Character Releases</tspan></text>
+    </g>
+  </g>
+  <g class="cls-4">
+    <g class="cls-4">
+      <text class="cls-8" transform="translate(5.6 709.02)"><tspan x="0" y="0">Source: Social Security - Babyname Datasets• Data</tspan><tspan class="cls-21" x="321.6" y="0"> </tspan><tspan x="324.72" y="0">Analysis and </tspan><tspan class="cls-19" x="407.99" y="0">V</tspan><tspan x="417.07" y="0">izualization: Ioanna Petsiou </tspan></text>
+      <text class="cls-8" transform="translate(5.6 725.82)"><tspan x="0" y="0">Most of the characters included are o</tspan><tspan class="cls-19" x="230.34" y="0">f</tspan><tspan x="233.98" y="0">ficially considered princesses by Disne</tspan><tspan class="cls-12" x="473.64" y="0">y</tspan><tspan x="479.6" y="0">. Elsa is the only exception since she is a Queen,</tspan></text>
+    </g>
+    <g class="cls-4">
+      <text class="cls-8" transform="translate(5.6 742.62)"><tspan x="0" y="0">but she is included due to the big impact the movie &quot;Frozen&quot; had.</tspan></text>
+    </g>
+    <g class="cls-4">
+      <text class="cls-8" transform="translate(5.6 759.42)"><tspan x="0" y="0">Before the release of &quot;Mulan&quot;, no baby was called Mulan.</tspan><tspan class="cls-21" x="354.7" y="0"> </tspan><tspan x="357.81" y="0">After the release on 1998, 25 babies were called Mulan.</tspan><tspan class="cls-19" x="704.14" y="0"> </tspan><tspan x="707.78" y="0">Thus, the</tspan></text>
+    </g>
+    <g class="cls-4">
+      <text class="cls-8" transform="translate(5.6 776.22)"><tspan x="0" y="0">increase from 0 to 25 cannot be shown in percentage, since the percentage increase is infinite.</tspan></text>
+      <text class="cls-8" transform="translate(5.6 793.02)"><tspan x="0" y="0">There was no data for babies called &quot;Snow White&quot;.</tspan></text>
+    </g>
+  </g>
+  <g class="cls-4">
+    <text class="cls-3" transform="translate(5.6 80.42)"><tspan x="0" y="0">Analyzing the Impact of Disney Princess Films on the Popularity of Girls</tspan><tspan class="cls-20" x="698.17" y="0">’</tspan><tspan x="702.24" y="0" xml:space="preserve"> Names </tspan></text>
+    <text class="cls-3" transform="translate(5.6 106.82)"><tspan x="0" y="0">from 1880 to 2023</tspan></text>
+  </g>
+</svg>
